@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.CardImage {
+  background-image: url("./assets/pokeball.png");
+  background-size: cover;
+  filter: opacity(30%);
+}
+/* 
+.cardImage {
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100px;
+  height: 100px;
+  filter: opacity(30%);
+} */
+
+/* .cardBg {
+  z-index: 1;
+  left: 5rem;
+} */
